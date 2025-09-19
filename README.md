@@ -5,11 +5,21 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Owner & backend-dev of @AxiomLite company
+- Intrested in python
+- Studing in 11th grade in Iran
+- English B2 level
+- Creative
+- Look for co-worker
+
+Knownladges:
+- Python
+- Python-Django
+- HTML
+- CSS
+- JS
+- MySQL
+- Git
+- GitHub
+- Docker
+- Network +
