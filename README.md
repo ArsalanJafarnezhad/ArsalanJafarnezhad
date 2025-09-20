@@ -4,6 +4,14 @@
 I am a passionate **Backend Developer** with a knack for building robust and scalable applications. My journey in the tech world has been fueled by curiosity and a desire to solve complex problems. 
 
 ## Skills
+
+- **Educition**:
+  - 11th Grade
+  - English (B2)
+  - Azarbayji (Expert)
+  - Turkish (Expert)
+  - Persion (Expert)
+
 - **Languages**: 
   - Python 🐍
   - HTML 🌐
@@ -21,9 +29,9 @@ I am a passionate **Backend Developer** with a knack for building robust and sca
   - Git 🔶
   - GitHub 🐈‍⬛
 
-## Get in Touch
+## Secial Media
 Feel free to reach out to me:
-#- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **Telegram**: [Your LinkedIn Profile](https://t.me/AxiomLite)
+- **Email**: [Arsalan.Jafarnezhad.2010@Gmail.Com](mailto:Arsalan.Jafarnezhad.2010@Gmail.Com)
+- **Telegram**: [@AxiomLite](https://t.me/AxiomLite)
 
 Thank you for visiting my profile! Let's connect and collaborate! 🚀
