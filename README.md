@@ -8,20 +8,65 @@ I am a passionate **Backend Developer** with a knack for building robust and sca
 - **Educition**:
   - 11th Grade
   - English (B2)
-  - Azarbayji (Expert)
+  - Azarbayjani (Expert)
   - Turkish (Expert)
   - Persion (Expert)
 
-- **Languages**: 
+- **Programming Languages**: 
   - Python 🐍
+  - JavaScript 🔑
+    
+- **Languages**:
   - HTML 🌐
   - CSS 💐
-  - JavaScript 🔑
 
 - **Frameworks**: 
-  - Django 💚
+  - Django Python 💚
+  - Bootstrap CSS 🪻
+  - Tailwind CSS 🌷
+
+- **Python Libraries**
+  
+  - **Tools**
+    - Random
+    - PySnooper
+    - String
+    - Typing
+    - Math
+      
+  - **Web**
+    - Requests
+    - AioHTTP
+    - URLLib3
+    - Django
+    - Django Defender
+    - Django Rest Framework (DRF)
+    - Django Axes
+    - MySQL Client
+    - Barcode
+    - QrCode
+    - Segno
+      
+  - **Data Science**
+    - Numpy
+    - MySQL
+      
+  - **Security**
+    - Secrets
+    - Crypto
+    - Win32Crypt
+      
+  - **AI**
+    - OpenCV
+    - Pillow
+      
+  - **GUI**
+    - Turtle
+    - Tkinter
+    - MathPlotLib
 
 - **Databases**: 
+  - SQL 🔑
   - MySQL 🔒
 
 - **Tools**: 
