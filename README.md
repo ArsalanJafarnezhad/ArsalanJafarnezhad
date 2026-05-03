@@ -1,82 +1,119 @@
-# Welcome to My GitHub Profile! 👋
+# Arsalan Jafarnezhad
 
-## About Me
-I am a passionate **Backend Developer** with a knack for building robust and scalable applications. My journey in the tech world has been fueled by curiosity and a desire to solve complex problems. 
+- Phone: +98 902 564 4524
+- Email: [Arsalan.Jafarnezhad.2010@gmail.com](mailto:Arsalan.Jafarnezhad.2010@gmail.com)
+- Location: Urmia, Iran
+- Website: [arsalan-jafarnehzad.github.io](https://arsalan-jafarnehzad.github.io/)
+- LinkedIn: [Arsalan-Jafarnezhad](https://linkedin.com/in/Arsalan-Jafarnezhad)
+- GitHub: [Arsalan-Jafarnezhad](https://github.com/Arsalan-Jafarnezhad)
+- Telegram: [ArsalanJafarnezhad](https://t.me/ArsalanJafarnezhad)
 
-## Skills
 
-- **Educition**:
-  - 11th Grade
-  - English (B2)
-  - Azarbayjani (Expert)
-  - Turkish (Expert)
-  - Persion (Expert)
+# Summary
+## **Arsalan Jafarnezhad**, Backend Developer
 
-- **Programming Languages**: 
-  - Python 🐍
-  - JavaScript 🔑
-    
-- **Languages**:
-  - HTML 🌐
-  - CSS 💐
 
-- **Frameworks**: 
-  - Django Python 💚
-  - Bootstrap CSS 🪻
-  - Tailwind CSS 🌷
 
-- **Python Libraries**
-  
-  - **Tools**
-    - Random
-    - PySnooper
-    - String
-    - Typing
-    - Math
-      
-  - **Web**
-    - Requests
-    - AioHTTP
-    - URLLib3
-    - Django
-    - Django Defender
-    - Django Rest Framework (DRF)
-    - Django Axes
-    - MySQL Client
-    - Barcode
-    - QrCode
-    - Segno
-      
-  - **Data Science**
-    - Numpy
-    - MySQL
-      
-  - **Security**
-    - Secrets
-    - Crypto
-    - Win32Crypt
-      
-  - **AI**
-    - OpenCV
-    - Pillow
-      
-  - **GUI**
-    - Turtle
-    - Tkinter
-    - MathPlotLib
+Hello, I'm Arsalan Jafarnezhad, a backend developer.
 
-- **Databases**: 
-  - SQL 🔑
-  - MySQL 🔒
+17 Years old, from Urmia, Iran.
 
-- **Tools**: 
-  - Docker 🔷
-  - Git 🔶
-  - GitHub 🐈‍⬛
 
-## Secial Media
-Feel free to reach out to me:
-- **Email**: [Arsalan.Jafarnezhad.2010@Gmail.Com](mailto:Arsalan.Jafarnezhad.2010@Gmail.Com)
-- **Telegram**: [@AxiomLite](https://t.me/AxiomLite)
 
-Thank you for visiting my profile! Let's connect and collaborate! 🚀
+I can create fast, responsible & scalable websites using powerful Django framework.
+
+Despite my backend development skills, I have frontend skills like creating modern & responsible websites using powerful DaisyUI framework and dynamic pages with JavaScript programming language.
+
+
+
+You can communicate with me on these platforms
+
+
+
+- [Telgram](https://t.me/arsalanjafarnezhad/)
+
+- [GitHub](https://github.com/arsalan-jafarnezhad/)
+
+- [LinkedIn](https://linkedin.com/in/arsalan-jafarnezhad/)
+
+
+
+# Education
+## **Shahed High School**, Mathematics
+
+**HS**
+
+
+Urmia, Iran
+
+
+Sept 2024 – present
+
+Educated high level of Mathematics, Physics, Chemistry, Statistics, Probability, Data Science, etc
+
+- School top 10 (2025)
+
+- Country-whole tour by government
+
+- Meeting with important politicians
+
+
+
+# Experience
+## **Taif Gostar**, Backend advisor & Frontend designer
+
+Urmia, Iran
+
+June 2022 – present
+
+
+
+3 years 7 months
+
+Started learning programming in this company and then hired here because high skills.
+
+- Managed & Consulted to + 150 Python questions
+
+- Developed admin panel of [Taif Gostar Website](https://py.taifgostar.ir/)
+
+- Give consultation for website's backend optimization
+
+- Designed monthly challenges & optimized algorithms for problems
+
+
+
+## **Urum Verse**, Backend Developer & Frontend Designer
+
+Urmia, Iran
+
+Sept 2025 – present
+
+
+
+4 months
+
+- Developed [Urum Verse Website](https://py.taifgostar.ir/) website Backend
+
+- Designed [Urum Verse Website](https://py.taifgostar.ir/) website Frontend
+
+- Doing marketing of whole company
+
+
+
+# Selected Honors
+- Active in different associations
+
+- Sharing useful content in [AxiomLite](https://t.me/AxiomLite)
+
+# Skills
+**Programming Languages:** Python, JavaScript
+
+**Frameworks:** Django, Flask
+
+**Other Languages:** HTML, CSS, SQL, YAML, JSON, CSV, Toml
+
+**CSS Frameworks:** Bootstrap, TailwindCSS, DaisyUI
+
+**Databases:** SQLite, MySQL
+
+**Tools:** Git, GitHub, Docker, Xampp
