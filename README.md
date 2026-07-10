@@ -1,6 +1,5 @@
 # Arsalan Jafarnezhad
 
-- Phone: +98 902 564 4524
 - Email: [Arsalan.Jafarnezhad.2010@gmail.com](mailto:Arsalan.Jafarnezhad.2010@gmail.com)
 - Location: Urmia, Iran
 - Website: [arsalan-jafarnehzad.github.io](https://arsalan-jafarnehzad.github.io/)
