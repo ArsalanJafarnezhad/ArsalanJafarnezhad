@@ -1,4 +1,4 @@
-# Arsalan Jafarnezhad's CV
+# Arsalan Jafarnezhad
 
 - Email: [Arsalan.Jafarnezhad.2010@gmail.com](mailto:Arsalan.Jafarnezhad.2010@gmail.com)
 - Location: Urmia, Iran
